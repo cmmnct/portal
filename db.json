@@ -1,41 +1,41 @@
 {
   "producten": [
     {
-      "label": "",
-      "url": ""
+      "label": "Digital",
+      "url": "https://www.nu.nl"
     },
     {
-      "label": "",
-      "url": ""
+      "label": "Sales",
+      "url": "https://www.nu.nl"
     },{
-      "label": "",
-      "url": ""
+      "label": "Levering",
+      "url": "https://www.nu.nl"
     }
     ],
     "afdeling": [
       {
-      "label": "",
-      "url": ""
+      "label": "BSS",
+      "url": "https://www.nu.nl"
     },
     {
-      "label": "",
-      "url": ""
+      "label": "MT",
+      "url": "https://www.nu.nl"
     },{
-      "label": "",
-      "url": ""
+      "label": "Sales",
+      "url": "https://www.nu.nl"
     }
       ],
     "onderwerp": [
       {
-      "label": "",
-      "url": ""
+      "label": "Orders",
+      "url": "https://www.nu.nl"
     },
     {
-      "label": "",
-      "url": ""
+      "label": "Interacties",
+      "url": "https://www.nu.nl"
     },{
-      "label": "",
-      "url": ""
+      "label": "Cases",
+      "url": "https://www.nu.nl"
     }
       ]
 }
