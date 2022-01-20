@@ -1,0 +1,41 @@
+{
+  "producten": [
+    {
+      "label": "",
+      "url": ""
+    },
+    {
+      "label": "",
+      "url": ""
+    },{
+      "label": "",
+      "url": ""
+    }
+    ],
+    "afdeling": [
+      {
+      "label": "",
+      "url": ""
+    },
+    {
+      "label": "",
+      "url": ""
+    },{
+      "label": "",
+      "url": ""
+    }
+      ],
+    "onderwerp": [
+      {
+      "label": "",
+      "url": ""
+    },
+    {
+      "label": "",
+      "url": ""
+    },{
+      "label": "",
+      "url": ""
+    }
+      ]
+}
