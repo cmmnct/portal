@@ -1,37 +1,52 @@
 [
-  [
-    {
-      "label": "",
-      "url": ""
-    },
-    {
-      "label": "",
-      "url": ""
-    },{
-      "label": "",
-      "url": ""
-    },
+  {
+    "topic": "Producten",
+    "items": [
       {
-      "label": "",
-      "url": ""
-    }],[
-    {
-      "label": "",
-      "url": ""
-    },{
-      "label": "",
-      "url": ""
-    },
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
       {
-      "label": "",
-      "url": ""
-    }],[
-    {
-      "label": "",
-      "url": ""
-    },{
-      "label": "",
-      "url": ""
-    }
-      ]
-      ]
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  },
+  {
+    "topic": "Af",
+    "items": [
+      {
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
+      {
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  },{
+    "topic": "Producten",
+    "items": [
+      {
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
+      {
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  }
+]
