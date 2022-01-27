@@ -1,8 +1,8 @@
-{ "items":
+{ "dataItems":
   [
   {
     "topic": "Producten",
-    "items": [
+    "menuItems": [
       {
         "label": "Digital",
         "url": "http://www.nu.nl"
@@ -19,7 +19,7 @@
   },
   {
     "topic": "Afdeling",
-    "items": [
+    "menuItems": [
       {
         "label": "Digital",
         "url": "http://www.nu.nl"
@@ -35,7 +35,7 @@
     ]
   },{
     "topic": "Onderwerp",
-    "items": [
+    "menuItems": [
       {
         "label": "Digital",
         "url": "http://www.nu.nl"
